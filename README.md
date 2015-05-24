@@ -1,8 +1,8 @@
-3Alchemy (Tri/FreeAlchemy)
+3Alchemy (FreeAlchemy)
 ==========================
 
-Recording of the freestyle improvised interactive live mob coding Elixir sessions
-done at [TRUG (TriCityRubyUsersGroup)](http://trug.pl) by Szymon Jeż.
+Recording of the freestyle improvised interactive live mob programming Elixir sessions
+done at the [TriCity (3city) Ruby Users Group (TRUG)](http://trug.pl).
 
 * **3Alchemy** stands for free / freestyle alchemy.
 * **Alchemy** stands for programming using [Elixir](http://elixir-lang.org).
@@ -20,7 +20,7 @@ Goals:
 * duration: 1 h
 * (not recorded)
 
-Was showing some basic semantics and syntax.
+Has shown some basic Erlang/Elixir semantics and Elixir syntax.
 
 links:
 
